@@ -213,7 +213,7 @@
 
 .about {
   display: grid;
-  grid-template-columns: auto 1fr;  
+  grid-template-columns: auto 1fr;
   gap: 72px;
   margin: 0px 24px 180px;
 }
@@ -240,7 +240,7 @@
 }
 
 .about__title {
-  margin: 136px 0 100px; /* отступы для заголовка */
+  margin: 136px 0 100px;/* отступы для заголовка */
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
