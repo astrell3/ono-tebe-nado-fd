@@ -250,10 +250,10 @@
   font-size: 20px;
   line-height: 120%;
   max-width: 693px;
-  max-height: 312px;
+  height: 312px;
 }
 
-.about__text-1 {
+.about__txt {
   padding-right: 5px;
 }
 
